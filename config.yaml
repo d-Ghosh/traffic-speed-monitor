@@ -1,0 +1,34 @@
+video:
+  path: videos/AI&DS Dataset Video.mp4
+perspective:
+  left_lane:
+    source_points:
+    - - 780
+      - 221
+    - - 894
+      - 221
+    - - 730
+      - 594
+    - - 144
+      - 536
+    output_width: 500
+    output_height: 1500
+    meters_per_unit: 0.07547473841373903
+  right_lane:
+    source_points:
+    - - 957
+      - 230
+    - - 1056
+      - 221
+    - - 1742
+      - 628
+    - - 1105
+      - 630
+    output_width: 500
+    output_height: 1500
+    meters_per_unit: 0.12473549204640107
+speed_estimation:
+  ema_alpha: 0.3
+  min_distance_m: 0.3
+  max_plausible_kmph: 180
+  max_frame_gap: 15
