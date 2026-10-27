@@ -10,7 +10,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Supervision](https://img.shields.io/badge/Supervision-ByteTrack-6FCF97)
 
-<img src="assets/demo.png" alt="Traffic Speed Monitor demo: vehicles on a highway annotated with ID, class and speed in km/h" width="100%">
+<img src="assets/demo.png" alt="Traffic Speed Monitor demo" width="100%">
 
 </div>
 
